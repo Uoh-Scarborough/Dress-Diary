@@ -1,0 +1,4 @@
+span.folder{background-image:url('/images/page_types/earth-icon.png');background-repeat:no-repeat;}
+span.home{background-image:url('/images/page_types/home-icon.png');background-repeat:no-repeat;}
+span.page{background-image:url('/images/page_types/page-icon.png');background-repeat:no-repeat;}
+span{padding-left:20px;line-height:30px;}
